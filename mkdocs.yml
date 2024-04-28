@@ -17,7 +17,7 @@ theme:
     font:
         text: Roboto
         code: Roboto Mono
-    logo: 'images/logo_brain_2.png'
+    logo: 'images/floppy-ebenimeli.png'
     features:
       - content.code.annotate
 plugins:
