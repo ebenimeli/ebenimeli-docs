@@ -18,6 +18,7 @@ nav:
     - 'Podcasts': 'contents/recursos/podcasts.md'
   - 'Recomendaciones':
     - 'Recomiendo...': 'contents/recomendaciones/recomendaciones.md'
+    - 'Informática': 'contents/recomendaciones/informatica.md'
     - 'Bebé': 'contents/recomendaciones/bebe.md'
 - 'Contacto':
   - 'Web': 'https://www.ebenimeli.org'
