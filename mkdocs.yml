@@ -16,7 +16,7 @@ nav:
     - 'Libros': 'contents/lectura/libros.md'
   - 'Podcasts y radio':
     - 'Podcasts': 'contents/recursos/podcasts.md'
-  - 'Recomendaciones':
+  - 'Artículos recomendados':
     - 'Recomiendo...': 'contents/recomendaciones/recomendaciones.md'
     - 'Informática': 'contents/recomendaciones/informatica.md'
     - 'Bebé': 'contents/recomendaciones/bebe.md'
