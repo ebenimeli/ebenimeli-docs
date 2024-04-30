@@ -16,9 +16,10 @@ nav:
     - 'Libros': 'contents/lectura/libros.md'
   - 'Podcasts y radio':
     - 'Podcasts': 'contents/recursos/podcasts.md'
-- 'More':
-  - 'Blog': 'https://www.esferatic.com'
-  - 'Instagram': 'https://www.instagram.com/esferatic'
+- 'Contacto':
+  - 'Web': 'https://www.ebenimeli.org'
+  - 'X': 'https://www.x.com/enriquebenimeli'
+  - 'Instagram': 'https://www.instagram.com/ebenimeli'
 
 theme:
     language: es
