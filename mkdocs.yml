@@ -4,6 +4,10 @@ nav:
 - 'Principal':
   - 'Introducción':
     - 'Inicio': 'contents/intro/main.md'
+  - 'Rincoón de lectura':
+    - 'Libros': 'contents/lectura/libros.md'
+  - 'Podcasts y radio':
+    - 'Podcasts': 'contents/recursos/podcasts.md'
 - 'More':
   - 'Blog': 'https://www.esferatic.com'
   - 'Instagram': 'https://www.instagram.com/esferatic'
