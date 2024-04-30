@@ -16,6 +16,9 @@ nav:
     - 'Libros': 'contents/lectura/libros.md'
   - 'Podcasts y radio':
     - 'Podcasts': 'contents/recursos/podcasts.md'
+  - 'Compras':
+    - 'De compras': 'contents/compras/compras.md'
+    - 'Bebé': 'contents/compras/bebe.md'
 - 'Contacto':
   - 'Web': 'https://www.ebenimeli.org'
   - 'X': 'https://www.x.com/enriquebenimeli'
