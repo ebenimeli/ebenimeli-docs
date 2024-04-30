@@ -4,7 +4,15 @@ nav:
 - 'Principal':
   - 'Introducción':
     - 'Inicio': 'contents/intro/main.md'
-  - 'Rincoón de lectura':
+  - 'Proyectos':
+    - 'La ventana digital': 'contents/proyectos/boletin.md'
+    - 'Ocho en punto': 'contents/proyectos/ochoenpunto.md'
+    - 'Esfera TIC': 'contents/proyectos/esferatic.md'
+    - 'Web personal': 'contents/proyectos/ebenimeliorg.md'
+    - 'Ajedrez': 'contents/proyectos/ajedrez.md'
+  - 'Informática':
+    - 'Inicio': 'contents/informatica/informatica.md'
+  - 'Rincón de lectura':
     - 'Libros': 'contents/lectura/libros.md'
   - 'Podcasts y radio':
     - 'Podcasts': 'contents/recursos/podcasts.md'
