@@ -1,42 +1,44 @@
 site_name: Documentación
 use_directory_urls: false
 nav:
-- 'Principal':
-  - 'Introducción':
-    - 'Inicio': 'contents/intro/main.md'
-  - 'Proyectos':
-    - 'La ventana digital': 'contents/proyectos/boletin.md'
-    - 'Ocho en punto': 'contents/proyectos/ochoenpunto.md'
-    - 'Esfera TIC': 'contents/proyectos/esferatic.md'
-    - 'Web personal': 'contents/proyectos/ebenimeliorg.md'
-    - 'Ajedrez': 'contents/proyectos/ajedrez.md'
-  - 'Informática':
-    - 'Inicio': 'contents/informatica/informatica.md'
-  - 'Rincón de lectura':
-    - 'Libros': 'contents/lectura/libros.md'
-  - 'Podcasts y radio':
-    - 'Podcasts': 'contents/recursos/podcasts.md'
-  - 'Artículos recomendados':
-    - 'Recomiendo...': 'contents/recomendaciones/recomendaciones.md'
-    - 'Informática': 'contents/recomendaciones/informatica.md'
-    - 'Bebé': 'contents/recomendaciones/bebe.md'
-- 'Contacto':
-  - 'Web': 'https://www.ebenimeli.org'
-  - 'X': 'https://www.x.com/enriquebenimeli'
-  - 'Instagram': 'https://www.instagram.com/ebenimeli'
+  - "Principal":
+      - "Introducción":
+          - "Inicio": "contents/intro/main.md"
+      #- "Docencia":
+      #    - "Informática 1234": "contents/docencia/inf1234.md"
+#  - 'Proyectos':
+#    - 'La ventana digital': 'contents/proyectos/boletin.md'
+#    - 'Ocho en punto': 'contents/proyectos/ochoenpunto.md'
+#    - 'Esfera TIC': 'contents/proyectos/esferatic.md'
+#    - 'Web personal': 'contents/proyectos/ebenimeliorg.md'
+#    - 'Ajedrez': 'contents/proyectos/ajedrez.md'
+#  - 'Informática':
+#    - 'Inicio': 'contents/informatica/informatica.md'
+#- 'Rincón de lectura':
+#  - 'Libros': 'contents/lectura/libros.md'
+#- 'Podcasts y radio':
+#  - 'Podcasts': 'contents/recursos/podcasts.md'
+#- 'Artículos recomendados':
+#  - 'Recomiendo...': 'contents/recomendaciones/recomendaciones.md'
+#  - 'Informática': 'contents/recomendaciones/informatica.md'
+#  - 'Bebé': 'contents/recomendaciones/bebe.md'
+#- 'Contacto':
+#  - 'Web': 'https://www.ebenimeli.org'
+#  - 'X': 'https://www.x.com/enriquebenimeli'
+#  - 'Instagram': 'https://www.instagram.com/ebenimeli'
 
 theme:
-    language: es
-    name: 'readthedocs'
-    palette:
-        primary: 'Teal'
-        accent: 'Teal'
-    font:
-        text: Roboto
-        code: Roboto Mono
-    logo: 'images/floppy-ebenimeli.png'
-    features:
-      - content.code.annotate
+  language: es
+  name: "readthedocs"
+  palette:
+    primary: "Teal"
+    accent: "Teal"
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: "images/floppy-ebenimeli.png"
+  features:
+    - content.code.annotate
 plugins:
   - glightbox
   - search
@@ -68,4 +70,3 @@ extra_css:
 
 extra_javascript:
   - https://unpkg.com/mermaid@10.2.4/dist/mermaid.min.js
-
