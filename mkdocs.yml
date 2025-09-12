@@ -43,11 +43,13 @@ plugins:
   - glightbox
   - search
   - mermaid2
+  #- toc-md
   #- pandoc
   #pandoc:
   # - combined: true
 
 markdown_extensions:
+  - toc
   - tables
   - attr_list
   - sane_lists
